@@ -1,3 +1,6 @@
+// Copyright James Burvel O’Callaghan III
+// President Citibank Demo Business Inc.
+
 {
   "name": "FieldForce Optimizer",
   "description": "A route optimization and service-logging app for field service businesses. It uses AI to calculate the most efficient routes, saving time and fuel, and provides tools for on-site job management and proof of service.",
